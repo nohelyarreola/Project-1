@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Everyone is searching for the missing piece in life. The key to unlock the door and steal back all lost time!")
+        Text("Everyone is searching for the missing piece in life. The key to unlock the door and steal back all lost time.")
             .fontWeight(.bold)
             .font( .custom("Cochin", size: 20))
             .foregroundColor(.purple)
